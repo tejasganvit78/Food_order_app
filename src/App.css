@@ -1,0 +1,41 @@
+
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  flex-direction: row;
+  
+}
+
+.shopping-card {
+  justify-content: space-between;
+  background-color: #61dafb;
+  padding: 10px ;
+}
+
+.product-item{
+  padding:20px ;
+
+}
+
+.imag{
+  border-radius: 20px;
+  height:20rem; 
+  width:20rem;
+}
+
+.btn{
+  border-radius: 5px;
+  background-color:darkseagreen;
+  border: none;
+  color:#f0f0f0;
+  height: 40px;
+  width: 100px;
+  font-weight:bold ;
+  font-size: larger;
+}
+.count{
+  color:blue;
+  font-size: larger;
+}
